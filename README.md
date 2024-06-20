@@ -1,4 +1,4 @@
-<h1>API REST de uma assistência técnica de eletrônica</h1>
+<h1>API REST para uma assistência técnica de eletrônica</h1>
 <h2>Tecnologias usadas:</h2>
 <ul>
   <li>Framework: SpringBoot</li>
