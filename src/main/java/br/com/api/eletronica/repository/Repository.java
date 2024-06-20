@@ -9,4 +9,6 @@ import br.com.api.eletronica.models.Cliente;
 @org.springframework.stereotype.Repository
 public interface Repository extends CrudRepository<Cliente, Integer> {
     List<Cliente> findAll();
+
+    Cliente findByCodigo(int codigo);   
 }
